@@ -12,6 +12,7 @@ This project contains that adding the JIRA calendar with Blazor Scheduler.
 * Checkout this project to a location in your disk.
 * Open the solution file using the Visual Studio 2022.
 * Restore the NuGet packages by rebuilding the solution.
+* Ensure the .NET version is updated to the latest available version.
 * Run the project.
 
 To run this application, we have to add JIRA credentials and Rest API url in OnInitializedAsync method in Index.razor file.
